@@ -1,11 +1,4 @@
 collection/__deprecated/
 collection/__preprocessing/
 collection/__unsupervised/
-collection/iris/*
-!collection/iris/dataset/
-collection/beast_cancer_wisconsin/*
-!collection/beast_cancer_wisconsin/dataset/
-collection/wine/*
-!collection/wine/dataset/
-collection/ames_housing/*
-!collection/ames_housing/dataset/
+venv/
